@@ -186,7 +186,7 @@ main .mails {
   background: transparent;
   transition: all 0.3s;
   border-radius: 5px;
-  padding: 4px;
+  padding: 4px 10px;
 }
 .mail button:hover {
   background: rgb(180, 180, 180);
